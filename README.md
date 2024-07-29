@@ -1,2 +1,2 @@
-# C200
+# CSCI-C200
 C200 Introduction to Computers and Programming
